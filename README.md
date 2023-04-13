@@ -1,4 +1,4 @@
-![logo](https://github.com/Sanket-0510/Sanket-Teli/blob/main/github_banner.png)
+![logo](https://github.com/Sanket-0510/Sanket-0510/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Sanket Teli</h1>
 <h3 align="center">A passionate Web developer & Blockchain Enthutiast from India</h3>
 
